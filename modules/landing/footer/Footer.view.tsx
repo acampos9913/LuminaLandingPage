@@ -21,7 +21,7 @@ export const FooterView: React.FC = () => {
           <p className="text-slate-500 text-sm max-w-xs">
             La plataforma definitiva para creadores, startups y empresas que construyen el software del mañana.
           </p>
-          <p className="text-slate-600 text-xs mt-4">© 2024 Lumina Technologies Inc. Todos los derechos reservados.</p>
+          <p className="text-slate-600 text-xs mt-4">© 2026 Lumina Technologies Inc. Todos los derechos reservados.</p>
         </div>
 
         <div className="flex flex-col md:flex-row gap-8 items-center">

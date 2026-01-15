@@ -1,4 +1,4 @@
-export const WHATSAPP_NUMBER = "1234567890"; // Reemplazar con el número real
+export const WHATSAPP_NUMBER = "+51934315587"; // Reemplazar con el número real
 export const DEMO_MESSAGE = "Hola, me interesa ver una demo de LUMINA.SH y conocer cómo acelera el desarrollo.";
 
 export const PLANS = [
